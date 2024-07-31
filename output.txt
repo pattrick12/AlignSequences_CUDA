@@ -1,0 +1,16 @@
+./bin/sequence_analysis
+Maximum grid size: 2147483647 x 65535 x 65535
+Aligning the sequences first
+Query directory: "data/quseq2"
+Reading directory "data/quseq2"
+Aligning reference2 with "data/quseq2/query_1.txt"
+Starting Smith-Waterman alignment
+Reference sequence length: 7000
+Query sequence length: 7000
+Using tile size: 512x512
+Aligning reference2 with "data/quseq2/query_2.txt"
+Starting Smith-Waterman alignment
+Reference sequence length: 7000
+Query sequence length: 2870
+Using tile size: 512x512
+Alignment done, proceeding with Spectrum analysis
